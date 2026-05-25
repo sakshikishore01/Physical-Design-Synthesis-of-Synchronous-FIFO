@@ -1,0 +1,63 @@
+xmsim(64): 22.09-s003: (c) Copyright 1995-2022 Cadence Design Systems, Inc.
+xmsim: *W,DLNOHV: Unable to find an 'hdl.var' file to load in.
+xmsim: *W,NOMTDGUI: Multi-Threaded Dumping is disabled for interactive debug mode.
+
+-------------------------------------
+Relinquished control to SimVision...
+xcelium> 
+xcelium> database -open waves -into waves.shm -default
+Created default SHM database waves
+xcelium> probe -create -shm tb_fifo_sync.clk tb_fifo_sync.cs tb_fifo_sync.data_in tb_fifo_sync.data_out tb_fifo_sync.empty tb_fifo_sync.full tb_fifo_sync.i tb_fifo_sync.rd_en tb_fifo_sync.rst_n tb_fifo_sync.wr_en
+Created probe 1
+xcelium> run
+                   5
+ SCENARIO 1
+                  15 write_data data_in = 1
+                  35 write_data data_in = 10
+                  55 write_data data_in = 100
+                  85 read_data data_out = 1
+                 105 read_data data_out = 10
+                 125 read_data data_out = 100
+                 125
+ SCENARIO 2
+                 135 write_data data_in = 1
+                 165 read_data data_out = 1
+                 175 write_data data_in = 2
+                 205 read_data data_out = 2
+                 215 write_data data_in = 4
+                 245 read_data data_out = 4
+                 255 write_data data_in = 8
+                 285 read_data data_out = 8
+                 295 write_data data_in = 16
+                 325 read_data data_out = 16
+                 335 write_data data_in = 32
+                 365 read_data data_out = 32
+                 375 write_data data_in = 64
+                 405 read_data data_out = 64
+                 415 write_data data_in = 128
+                 445 read_data data_out = 128
+                 445
+ SCENARIO 3
+                 455 write_data data_in = 1
+                 475 write_data data_in = 2
+                 495 write_data data_in = 4
+                 515 write_data data_in = 8
+                 535 write_data data_in = 16
+                 555 write_data data_in = 32
+                 575 write_data data_in = 64
+                 595 write_data data_in = 128
+                 615 write_data data_in = 256
+                 645 read_data data_out = 1
+                 665 read_data data_out = 2
+                 685 read_data data_out = 4
+                 705 read_data data_out = 8
+                 725 read_data data_out = 16
+                 745 read_data data_out = 32
+                 765 read_data data_out = 64
+                 785 read_data data_out = 128
+Simulation complete via $finish(1) at time 825 NS + 0
+./fifo_tb.v:94 	    #40 $finish;
+xcelium> run
+xmsim: *E,RNFNSH: Cannot continue simulation due to a previous $finish.
+xcelium> ^C
+xcelium> exit

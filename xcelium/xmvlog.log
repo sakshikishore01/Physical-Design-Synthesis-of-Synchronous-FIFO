@@ -1,0 +1,17 @@
+xmvlog(64): 22.09-s003: (c) Copyright 1995-2022 Cadence Design Systems, Inc.
+xmvlog: *W,DLNOHV: Unable to find an 'hdl.var' file to load in.
+		read_data();
+		          |
+xmvlog: *W,TMTPAR (fifo_tb.v,74|12): A task enable with no arguments must not include an empty set of parentheses [10.2.2 (IEEE Std 1364-2005)].  The compiler has ignored the parentheses.  Use 'xmhelp xmvlog TMTPAR'  for further information.
+		read_data();
+		          |
+xmvlog: *W,TMTPAR (fifo_tb.v,75|12): A task enable with no arguments must not include an empty set of parentheses [10.2.2 (IEEE Std 1364-2005)].  The compiler has ignored the parentheses.  Use 'xmhelp xmvlog TMTPAR'  for further information.
+		read_data();
+		          |
+xmvlog: *W,TMTPAR (fifo_tb.v,76|12): A task enable with no arguments must not include an empty set of parentheses [10.2.2 (IEEE Std 1364-2005)].  The compiler has ignored the parentheses.  Use 'xmhelp xmvlog TMTPAR'  for further information.
+			read_data();        
+			          |
+xmvlog: *W,TMTPAR (fifo_tb.v,82|13): A task enable with no arguments must not include an empty set of parentheses [10.2.2 (IEEE Std 1364-2005)].  The compiler has ignored the parentheses.  Use 'xmhelp xmvlog TMTPAR'  for further information.
+			read_data();
+			          |
+xmvlog: *W,TMTPAR (fifo_tb.v,91|13): A task enable with no arguments must not include an empty set of parentheses [10.2.2 (IEEE Std 1364-2005)].  The compiler has ignored the parentheses.  Use 'xmhelp xmvlog TMTPAR'  for further information.
