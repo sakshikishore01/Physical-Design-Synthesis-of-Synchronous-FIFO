@@ -158,7 +158,25 @@ The FIFO architecture performs both **read** and **write** operations synchronou
 <img width="1920" height="1080" alt="Screenshot from 2026-05-22 11-15-21" src="https://github.com/user-attachments/assets/484961ff-88fb-40bd-8b49-a9180e167f73" />
 <img width="1920" height="1080" alt="Screenshot from 2026-05-22 11-16-09" src="https://github.com/user-attachments/assets/ababfaf4-81a7-4ad3-9a49-925d8fb415af" />
 <img width="1920" height="1080" alt="Screenshot from 2026-05-22 11-18-44" src="https://github.com/user-attachments/assets/4765953b-bd73-43d2-8107-a8e47ba68bd0" />
+<img width="1920" height="1080" alt="Screenshot from 2026-05-22 11-51-54" src="https://github.com/user-attachments/assets/2ee2c8a5-dfb9-414d-a42e-781603904af7" />
+<img width="1920" height="1080" alt="Screenshot from 2026-05-22 11-51-29" src="https://github.com/user-attachments/assets/b8c57a57-5272-4314-abe0-0e996d669d75" />
+<img width="1920" height="1080" alt="Screenshot from 2026-05-22 11-23-02" src="https://github.com/user-attachments/assets/486bfbd7-6e1b-42a3-b66e-a4ba258c9141" />
+<img width="1920" height="1080" alt="Screenshot from 2026-05-22 11-07-07" src="https://github.com/user-attachments/assets/5da2595b-026b-468b-a37b-37d444c38059" />
+<img width="1920" height="1080" alt="Screenshot from 2026-05-22 11-19-23" src="https://github.com/user-attachments/assets/27352cd4-2946-407e-9e24-52f9ac1da72c" />
 
+<img width="1920" height="1080" alt="Screenshot from 2026-05-22 11-21-41" src="https://github.com/user-attachments/assets/cb19e658-fa57-48a0-af43-fb355a05bc19" />
+
+<img width="1920" height="1080" alt="Screenshot from 2026-05-22 11-25-26" src="https://github.com/user-attachments/assets/1f6a9ff8-e252-4251-94d4-b84dc6268064" />
+
+<img width="1920" height="1080" alt="Screenshot from 2026-05-22 11-28-30" src="https://github.com/user-attachments/assets/031fa1a3-9c90-49c5-83a5-30e0a3ac23c1" />
+
+<img width="1920" height="1080" alt="Screenshot from 2026-05-22 11-36-47" src="https://github.com/user-attachments/assets/9f4fb13f-fb9b-4397-b516-632b0d6b63f1" />
+<img width="1920" height="1080" alt="Screenshot from 2026-05-22 11-39-55" src="https://github.com/user-attachments/assets/e91b5c2f-ce37-44b6-adfa-dfbcb5e3df59" />
+<img width="1920" height="1080" alt="Screenshot from 2026-05-22 11-37-56" src="https://github.com/user-attachments/assets/1848e182-2a89-4764-be3a-9ba68aa5e2e1" />
+<img width="1920" height="1080" alt="Screenshot from 2026-05-22 11-24-09" src="https://github.com/user-attachments/assets/7f6461b2-6afb-42a9-90c8-401e3d909511" />
+
+## FINAL GDS2 FILE 
+<img width="1920" height="1080" alt="Screenshot from 2026-05-22 11-29-30" src="https://github.com/user-attachments/assets/d2537337-f898-4322-bd9f-904015ee543a" />
 
 # Final Deliverables
 
